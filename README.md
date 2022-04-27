@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Description of the project
 
-This is a Weather App which gives forcast for City of Toronto for 5 days.
+This is a Weather App that gives 5 day forecast for the City of Toronto, Canada
+
+The app shows forecast and Max & Min Temperature for 5 days.
+
+You can checkout the live link on :
 
 You can checkout the live link on https://adorable-torrone-889b3c.netlify.app/
 
