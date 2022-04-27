@@ -1,12 +1,10 @@
-# Description of the project
+# Description of the Assignment:
 
 This is a Weather App that gives 5 day forecast for the City of Toronto, Canada
 
 The app shows forecast and Max & Min Temperature for 5 days.
 
-You can checkout the live link on :
-
-You can checkout the live link on https://adorable-torrone-889b3c.netlify.app/
+You can checkout the live link on Netlify: https://adorable-torrone-889b3c.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
